@@ -23,4 +23,4 @@ I've had some previous experience in Python before codeup, although I really hop
 
 I'm always on the lookout for interesting projects, especially ones that will push my skills in Python, so contact me if you'd like to share ideas.
 
-Email me [here:](kyle.taylor.green@gmail.com)
+Email me [here](kyle.taylor.green@gmail.com)
