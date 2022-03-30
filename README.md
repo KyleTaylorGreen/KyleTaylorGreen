@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 My name is Kyle Green, and I'm currently a student at Codeup in San Antonio, TX! I am enrolled in the Data Science program. Throughout this program and beyond, I hope to become more adept in the field of Data Science and build many interesting projects that I can share with everyone.
 
-I've had previous experience in Python, although I really hope to take it to a more professional level. The coolest thing I've ever done was edit an existing library for yahoo finance to be asynchronous so it could field many requests quickly, and then import the data that I scraped into a database! Unfortunately this was before I knew how to use Git/Github, so that is a project I look forward to accomplishing again.
+I've had some previous experience in Python before codeup, although I really hope to take it to a more professional level. The coolest thing I've ever done was edit an existing library for yahoo finance to be asynchronous so it could field many requests quickly, and then import the data that I scraped into a database! Unfortunately this was before I knew how to use Git/Github, so that is a project I look forward to accomplishing again.
 
-I'm always on the lookout for interesting projects, especially ones that will push my skills in Python, so contact me if you'd like to talk.
+I'm always on the lookout for interesting projects, especially ones that will push my skills in Python, so contact me if you'd like to share ideas.
 
-Email: kyle.taylor.green@gmail.com
+Email me [here:](kyle.taylor.green@gmail.com)
