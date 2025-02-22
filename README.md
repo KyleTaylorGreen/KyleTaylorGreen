@@ -22,3 +22,5 @@ My name is Kyle Green. I'm an ambitious veteran with an interesting background i
 I'm always on the lookout for interesting projects, especially ones that will push my skills in Python, so contact me if you'd like to share ideas!
 
 Email me [here](kyle.taylor.green@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KyleTaylorGreen)
